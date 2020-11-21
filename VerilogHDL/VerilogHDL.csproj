@@ -6,4 +6,20 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Verilog.png" />
+    <None Remove="VerilogExamplesFour.jpg" />
+    <None Remove="VerilogExamplesOne.jpg" />
+    <None Remove="VerilogExamplesThree.jpg" />
+    <None Remove="VerilogExamplesTwo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Verilog.png" />
+    <Resource Include="VerilogExamplesFour.jpg" />
+    <Resource Include="VerilogExamplesOne.jpg" />
+    <Resource Include="VerilogExamplesThree.jpg" />
+    <Resource Include="VerilogExamplesTwo.jpg" />
+  </ItemGroup>
+
 </Project>

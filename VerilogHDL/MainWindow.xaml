@@ -5,8 +5,68 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VerilogHDL"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+        Title="MainWindow" Height="796" Width="1179" MaxHeight="796" MaxWidth="1179">
+    <TabControl>
+        <TabItem Header="Verilog" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="53">
+            <Grid Background="#FFE5E5E5" MaxWidth="1173" MaxHeight="752">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="83*"/>
+                    <ColumnDefinition Width="11*"/>
+                    <ColumnDefinition Width="1079*"/>
+                </Grid.ColumnDefinitions>
+                <Image Margin="13,-1,21,25" Stretch="Fill" Source="Verilog.png" Grid.ColumnSpan="3"/>
+                <TextBlock Grid.Column="2" HorizontalAlignment="Left" Margin="266,650,0,0" Text="Source Code: Source of the examples shown in this app are from Verilog Digital System Design – Zainalabedin Navabi with custom testbenches" TextWrapping="Wrap" VerticalAlignment="Top" Height="75" Width="605" FontSize="18"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="VerilogExamples">
+            <Grid Background="#FFE5E5E5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="6*"/>
+                    <ColumnDefinition Width="385*"/>
+                </Grid.ColumnDefinitions>
+                <TabControl Grid.ColumnSpan="2">
+                    <TabItem Header="VerilogExamples">
+                        <Grid Background="#FFE5E5E5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="71*"/>
+                                <ColumnDefinition Width="1096*"/>
+                            </Grid.ColumnDefinitions>
+                            <TabControl Grid.ColumnSpan="2" MaxWidth="1167" MaxHeight="724">
+                                <TabItem Header="VerilogExamplesOne">
+                                    <Grid Background="#FFE5E5E5">
+                                        <Image Margin="1,13,14,11" Stretch="Fill" Source="/VerilogExamplesOne.jpg"/>
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Header="VerilogExamplesTwo">
+                                    <Grid Background="#FFE5E5E5">
+                                        <Image Margin="12,18,18,16" Stretch="Fill" Source="/VerilogExamplesTwo.jpg"/>
+                                    </Grid>
+                                </TabItem>
+                            </TabControl>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="VerilogExamples">
+                        <Grid Background="#FFE5E5E5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="145*"/>
+                                <ColumnDefinition Width="1022*"/>
+                            </Grid.ColumnDefinitions>
+                            <TabControl Grid.ColumnSpan="2">
+                                <TabItem Header="VerilogExamplesThree">
+                                    <Grid Background="#FFE5E5E5">
+                                        <Image Margin="0,1,23,12" Stretch="Fill" Source="/VerilogExamplesThree.jpg"/>
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Header="VerilogExamplesFour">
+                                    <Grid Background="#FFE5E5E5">
+                                        <Image Margin="12,2,18,13" Stretch="Fill" Source="/VerilogExamplesFour.jpg"/>
+                                    </Grid>
+                                </TabItem>
+                            </TabControl>
+                        </Grid>
+                    </TabItem>
+                </TabControl>
+            </Grid>
+        </TabItem>
+    </TabControl>
 </Window>
