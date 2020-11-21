@@ -11,6 +11,9 @@ Additional details reference https://github.com/alpaddesai/VerilogHDL/releases
 ## Verilog
 ![image](Verilog.png)
 
+## Verilog Examples
+![image](VerilogExamplesOne.png)
+
 ## Verilog Examples 
 ![image](VerilogExamplesFour.png)
 
