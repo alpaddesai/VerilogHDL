@@ -23,4 +23,7 @@ Additional details reference https://github.com/alpaddesai/VerilogHDL/releases
 ## Verilog Examples 
 ![image](VerilogExamplesFour.png)
 
+## Verilog Applications
+![image](VerilogLanguageandApplication.jpg)
+
 
