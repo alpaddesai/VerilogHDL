@@ -26,4 +26,7 @@ Additional details reference https://github.com/alpaddesai/VerilogHDL/releases
 ## Verilog Applications
 ![image](VerilogLanguageandApplication.jpg)
 
+## Interest
+![image](image1.png)
+
 Additional details reference: https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea and https://github.com/alpaddesai/Custom_ChipDesign_ASICs_Firmware_SoC
