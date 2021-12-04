@@ -29,7 +29,4 @@ Additional details reference https://github.com/alpaddesai/VerilogHDL/releases
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest
-![image](image1.png)
-
 Additional details reference: https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea , https://github.com/alpaddesai/PowerandInfluentialSkills , https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/FirmwareDesign
