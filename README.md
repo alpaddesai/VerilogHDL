@@ -1,4 +1,4 @@
-# Verilog HDL   - 2005
+# Verilog HDL  
 
 The project provides an overview of Verilg HDL
 
