@@ -26,6 +26,9 @@ Additional details reference https://github.com/alpaddesai/VerilogHDL/releases
 ## Verilog Applications
 ![image](VerilogLanguageandApplication.jpg)
 
+## Verilog
+![image](VerilogProgramming.png)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
