@@ -34,4 +34,4 @@ All images are either custom by Alpa D Desai or a reference name is included.
 
 ![image](Ethics.jpg)
 
-Additional details reference: https://github.com/alpaddesai/DesignEngineering
+Additional details reference: https://github.com/alpaddesai/EmbeddedProgramming
